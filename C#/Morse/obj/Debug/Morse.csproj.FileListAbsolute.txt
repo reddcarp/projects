@@ -1,6 +1,0 @@
-D:\rider project\Morse\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
-D:\rider project\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
-D:\rider project\Morse\Morse\bin\Debug\Morse.exe
-D:\rider project\Morse\Morse\bin\Debug\Morse.pdb
-D:\rider project\Morse\Morse\obj\Debug\Morse.exe
-D:\rider project\Morse\Morse\obj\Debug\Morse.pdb
